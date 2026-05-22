@@ -6,12 +6,12 @@ This repository contains all grader problems for the 2102208 Programming for Ele
 
 ### EE208_01: Grader Test Problems
 
-| Codename | Problem Name | Status |
+| Codename | Problem Name | Difficulty | Status | 
 |----------|--------------|--------|
-| EE208_01_01 | New Grader Test | ❌ |
-| EE208_01_02 | Test NumPy Condition | ❌ |
-| EE208_01_03 | Test Second Max | ❌ |
-| EE208_01_04 | Test Softmax | ❌ |
+| EE208_01_01 | New Grader Test | 0.5 ⭐️ |  |
+| EE208_01_02 | Test NumPy Condition || ❌ |
+| EE208_01_03 | Test Second Max || ❌ |
+| EE208_01_04 | Test Softmax || ❌ |
 
 ### EE208_02: Matrix Creation
 
