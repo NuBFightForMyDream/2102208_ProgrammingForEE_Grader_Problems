@@ -17,29 +17,29 @@ This repository contains all grader problems for the 2102208 Programming for Ele
 
 ## EE208_02: Matrix Creation
 
-| Codename | Problem Name | Difficulty | Status |
-|----------|--------------|------------|--------|
-| [EE208_02_01](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_01%20Triangular%20System/ee208_triangular_system.pdf) | Triangular System | 2 ⭐️ | ✅ |
-| [EE208_02_02](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_02%20Cosine%20Difference/ee208_cosine_difference.pdf) | Cosine Difference | 1.5 ⭐️ | ✅ |
-| [EE208_02_03](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_03%20Stochastic%20Matrix/ee208_stochastic_matrix.pdf) | Stochastic Matrix | 2 ⭐️ | ✅ |
-| [EE208_02_04](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/tree/main/EE208_02%20Matrix%20Creation/EE208_02_04%20Toeplitz%20Matrix) | Toeplitz Matrix | 2.5 ⭐️ | ✅ |
-| [EE208_02_05](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_05%20Hankel%20Matrix/ee208_hankel_matrix.pdf) | Hankel Matrix | 1.5 ⭐️ | ✅ |
-| [EE208_02_06](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_06%20Vandermonde%20Matrix/ee208_vandermonde_matrix.pdf) | Vandermonde Matrix | 2.5 ⭐️ | ✅ |
-| [EE208_02_07](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_07%20Product%20of%20All%20Possible%20Differences/ee208_product_difference.pdf) | Product of All Possible Differences | 2.5 ⭐️ | ❌ |
-| [EE208_02_08](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_08%20Repeat%20Matrix/ee208_repeat_matrix.pdf) | Repeat Matrix | 1.5 ⭐️ | ❌ |
+| Codename | Problem Name | Difficulty | Status | Note |
+|----------|--------------|------------|--------|------|
+| [EE208_02_01](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_01%20Triangular%20System/ee208_triangular_system.pdf) | Triangular System | 2 ⭐️ | ✅ | |
+| [EE208_02_02](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_02%20Cosine%20Difference/ee208_cosine_difference.pdf) | Cosine Difference | 1.5 ⭐️ | ✅ | |
+| [EE208_02_03](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_03%20Stochastic%20Matrix/ee208_stochastic_matrix.pdf) | Stochastic Matrix | 2 ⭐️ | ✅ | |
+| [EE208_02_04](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/tree/main/EE208_02%20Matrix%20Creation/EE208_02_04%20Toeplitz%20Matrix) | Toeplitz Matrix | 2.5 ⭐️ | ✅ | |
+| [EE208_02_05](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_05%20Hankel%20Matrix/ee208_hankel_matrix.pdf) | Hankel Matrix | 1.5 ⭐️ | ✅ | |
+| [EE208_02_06](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_06%20Vandermonde%20Matrix/ee208_vandermonde_matrix.pdf) | Vandermonde Matrix | 2.5 ⭐️ | ✅ | |
+| [EE208_02_07](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_07%20Product%20of%20All%20Possible%20Differences/ee208_product_difference.pdf) | Product of All Possible Differences | 2.5 ⭐️ | ❌ ||
+| [EE208_02_08](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_08%20Repeat%20Matrix/ee208_repeat_matrix.pdf) | Repeat Matrix | 1.5 ⭐️ | ❌ | |
 
 ---
 
 ## EE208_03: Recursion Problems
 
-| Codename | Problem Name | Difficulty | Status |
-|----------|--------------|------------|--------|
-| [EE208_03_01](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_03%20Recursion%20Problems/EE208_03_01%20Collatz%20Continuous/ee208_ex2025_collatz_cnt.pdf) | Collatz Continuous | 1.5 ⭐️ | ❌ |
-| [EE208_03_02](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_03%20Recursion%20Problems/EE208_03_02%20Prime%20Number/ee208_ex2025_is_prime.pdf) | Prime Number | 1.5 ⭐️ | ❌ |
-| [EE208_03_03](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_03%20Recursion%20Problems/EE208_03_03%20Recursive%20Average/ee208_ex2025_recur_avg.pdf) | Recursive Average | 1 ⭐️ | ❌ |
-| [EE208_03_04](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_03%20Recursion%20Problems/EE208_03_04%20Recursive%20Base%20Conversion/ee208_ex2025_recur_base_conver.pdf) | Recursive Base Conversion | 2 ⭐️ | ❌ |
-| [EE208_03_05](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_03%20Recursion%20Problems/EE208_03_05%20Recursive%20Collatz%20Count/ee208_ex2025_recur_collatz_cnt.pdf) | Recursive Collatz Count | 2 ⭐️ | ❌ |
-| [EE208_03_06](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_03%20Recursion%20Problems/EE208_03_06%20Sum%20Until%20Unit/ee208_ex2025_sum_unit.pdf) | Sum Until Unit | 1 ⭐️ | ❌ |
+| Codename | Problem Name | Difficulty | Status | Note |
+|----------|--------------|------------|--------|------|
+| [EE208_03_01](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_03%20Recursion%20Problems/EE208_03_01%20Collatz%20Continuous/ee208_ex2025_collatz_cnt.pdf) | Collatz Continuous | 1.5 ⭐️ | ❌ ||
+| [EE208_03_02](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_03%20Recursion%20Problems/EE208_03_02%20Prime%20Number/ee208_ex2025_is_prime.pdf) | Prime Number | 1.5 ⭐️ | ❌ ||
+| [EE208_03_03](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_03%20Recursion%20Problems/EE208_03_03%20Recursive%20Average/ee208_ex2025_recur_avg.pdf) | Recursive Average | 1 ⭐️ | ❌ ||
+| [EE208_03_04](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_03%20Recursion%20Problems/EE208_03_04%20Recursive%20Base%20Conversion/ee208_ex2025_recur_base_conver.pdf) | Recursive Base Conversion | 2 ⭐️ | ❌ ||
+| [EE208_03_05](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_03%20Recursion%20Problems/EE208_03_05%20Recursive%20Collatz%20Count/ee208_ex2025_recur_collatz_cnt.pdf) | Recursive Collatz Count | 2 ⭐️ | ❌ ||
+| [EE208_03_06](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_03%20Recursion%20Problems/EE208_03_06%20Sum%20Until%20Unit/ee208_ex2025_sum_unit.pdf) | Sum Until Unit | 1 ⭐️ | ❌ ||
 
 ---
 
@@ -61,16 +61,16 @@ This repository contains all grader problems for the 2102208 Programming for Ele
 
 ## EE208_05: Other Topics
 
-| Codename | Problem Name | Difficulty | Status |
-|----------|--------------|------------|--------|
-| [EE208_05_01](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_05%20Other%20Topics/EE208_05_01%20ASCII%20Hexadecimal/ee208_fund_q_ascii_hex.pdf) | ASCII Hexadecimal | 1 ⭐️ | ❌ |
-| [EE208_05_02](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_05%20Other%20Topics/EE208_05_02%20Different%20Base%20Value/ee208_fund_q_dif_base_val.pdf) | Different Base Value | 2 ⭐️ | ❌ |
-| [EE208_05_03](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_05%20Other%20Topics/EE208_05_03%20PPM%20P6%20Reader/ee208_fund_q_ppm_p6_reader.pdf) | PPM P6 Reader | 3 ⭐️ | ❌ |
-| [EE208_05_04](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_05%20Other%20Topics/EE208_05_04%20LZW%20Encoding%20Encoding/ee208_fund_q_lzw.pdf) | LZW Encoding Encoding | 4 ⭐️ | ❌ |
-| [EE208_05_05](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_05%20Other%20Topics/EE208_05_05%20Seven%20Segment%20Display/ee208_fund_q_seven_seg.pdf) | Seven Segment Display | 2 ⭐️ | ❌ |
-| [EE208_05_06](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_05%20Other%20Topics/EE208_05_06%20UTF-8%20Encoding/ee208_fund_q_utf8_enc.pdf) | UTF-8 Encoding | 3 ⭐️ | ❌ |
-| [EE208_05_07](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_05%20Other%20Topics/EE208_05_07%20PPM%20P3%20Reader/ee208_fund_ppm_p3_reader.pdf) | PPM P3 Reader | 2.5 ⭐️ | ❌ |
-| [EE208_05_08](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_05%20Other%20Topics/EE208_05_08%20WAV%20Audio%20Parser/ee208_fund_wav_header.pdf) | WAV Audio Parser | 4 ⭐️ | ❌ |
+| Codename | Problem Name | Difficulty | Status | Note |
+|----------|--------------|------------|--------|------|
+| [EE208_05_01](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_05%20Other%20Topics/EE208_05_01%20ASCII%20Hexadecimal/ee208_fund_q_ascii_hex.pdf) | ASCII Hexadecimal | 1 ⭐️ | ❌ |  |
+| [EE208_05_02](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_05%20Other%20Topics/EE208_05_02%20Different%20Base%20Value/ee208_fund_q_dif_base_val.pdf) | Different Base Value | 2 ⭐️ | ❌ |  |
+| [EE208_05_03](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_05%20Other%20Topics/EE208_05_03%20PPM%20P6%20Reader/ee208_fund_q_ppm_p6_reader.pdf) | PPM P6 Reader | 3 ⭐️ | ❌ |  |
+| [EE208_05_04](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_05%20Other%20Topics/EE208_05_04%20LZW%20Encoding%20Encoding/ee208_fund_q_lzw.pdf) | LZW Encoding Encoding | 4 ⭐️ | ❌ |  |
+| [EE208_05_05](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_05%20Other%20Topics/EE208_05_05%20Seven%20Segment%20Display/ee208_fund_q_seven_seg.pdf) | Seven Segment Display | 2 ⭐️ | ❌ |  |
+| [EE208_05_06](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_05%20Other%20Topics/EE208_05_06%20UTF-8%20Encoding/ee208_fund_q_utf8_enc.pdf) | UTF-8 Encoding | 3 ⭐️ | ❌ |  |
+| [EE208_05_07](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_05%20Other%20Topics/EE208_05_07%20PPM%20P3%20Reader/ee208_fund_ppm_p3_reader.pdf) | PPM P3 Reader | 2.5 ⭐️ | ❌ |  |
+| [EE208_05_08](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_05%20Other%20Topics/EE208_05_08%20WAV%20Audio%20Parser/ee208_fund_wav_header.pdf) | WAV Audio Parser | 4 ⭐️ | ❌ |  |
 
 ---
 
